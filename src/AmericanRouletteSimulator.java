@@ -18,7 +18,7 @@ public class AmericanRouletteSimulator {
         boolean keepPlaying = true;
 
         System.out.println("========================================");
-        System.out.println("   AMERICAN ROULETTE SIMULATOR (INTRO)  ");
+        System.out.println("       AMERICAN ROULETTE SIMULATOR      ");
         System.out.println("========================================");
 
         // Main game loop runs while player has money and wants to continue
